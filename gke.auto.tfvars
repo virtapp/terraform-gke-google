@@ -1,0 +1,10 @@
+project_id                    = "your-project-id"
+storage_service_account_id    = "svc-devenes"
+kubernetes_service_account_id = "kubernetes"
+region                        = "us-central1"
+backend_bucket_name           = "your-backend-bucket-name"
+backend_prefix                = "terraform/state"
+spot_node_machine_type        = "e2-small"
+general_node_machine_type     = "e2-small"
+cluster_primary_zone          = "us-central1-a"
+cluster_multi_zones           = ["us-central1-b"]
