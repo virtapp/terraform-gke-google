@@ -1,9 +1,5 @@
-<div align="center" id="top"> 
-  <img src="./gcp.gif" alt="GCP" />
-</div>
+![1_xsexfkBNzwxKhRIhZbJs8A](https://github.com/user-attachments/assets/c7ef7219-1bfc-400d-9c8b-5793fce7ed32)
 
-&#xa0;
-&#xa0;
 
 ## Terraform resources plan
 
